@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="pl">
+	<head>
+		<meta charset="UTF-8" /> 		
+		<title>
+			Galeria
+		</title>
+	</head>
+	<body>
+		<table border="0" width="100%">
+			<tr><td align="center"><img src="1628071041280.jpg" alt="obraz"></td><td align="center"><img src="1628071041283.jpg" alt="obraz"></td><td align="center"><img src="1628071041285.jpg" alt="obraz"></td></tr>
+			<tr><td align="center">Podpis</td><td align="center">Podpis</td><td align="center">Podpis</td></tr>
+			<tr><td align="center"><img src="1628071041292.jpg" alt="obraz"></td><td align="center"><img src="1628071041290.jpg" alt="obraz"></td><td align="center"><img src="1628071041288.jpg" alt="obraz"></td></tr>
+			<tr><td align="center">Podpis</td><td align="center">Podpis</td><td align="center">Podpis</td></tr>
+			<tr><td align="center"><img src="1628071041295.jpg" alt="obraz"></td><td align="center"><img src="1628071041297.jpg" alt="obraz"></td><td align="center"><img src="1628071041300.jpg" alt="obraz"></td></tr> 
+			<tr><td align="center">Podpis</td><td align="center">Podpis</td><td align="center">Podpis</td></tr>
+		</table>		
+	</body>
+</html>
